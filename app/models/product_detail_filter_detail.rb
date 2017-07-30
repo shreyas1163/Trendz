@@ -1,0 +1,2 @@
+class ProductDetailFilterDetail < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class FilterDetail < ApplicationRecord
+end
